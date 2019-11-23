@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Bienvenido a OpenPlan
 
-You can use the [editor on GitHub](https://github.com/evallesv/OpenPlan/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+OpenPlan es un proyecto open source para la gestion de proyectos y el control de la mesa de ayuda.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Es un "pet" project para apoyar a la gestion de projectos y el control de casos de soporte para medianas y pequeñas empresas de latino america.
 
 ### Markdown
 
